@@ -29,6 +29,8 @@ Algunos de los comandos que recuerdo son:
 - git clone urlproyecto
 
 esto fue hecho por mí
+no incluye ejemplos de windows,linux y mac solo wsl
+disponible para todos
 
 Muchas gracias por todo!!!
 bye 🐧
