@@ -28,5 +28,7 @@ Algunos de los comandos que recuerdo son:
 - git show-branch
 - git clone urlproyecto
 
+esto fue hecho por mí
+
 Muchas gracias por todo!!!
 bye 🐧
